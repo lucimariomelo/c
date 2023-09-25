@@ -18,7 +18,7 @@
         </nav>
         <article>
 
-            <h1>Planejamento para criação de sites</h1>
+            <h1>Planejamento para criação de sites:</h1>
             <h2>Guia de criação de sites</h2>
 
             <p>Já parou para pensar que  grande parte das vezes o site poderá ser o primeiro contato que o cliente terá com a sua marca? Afinal, quando queremos alguma coisa hoje, a primeira reação que temos é fazer uma pesquisa no Google. O link para o seu site poderá ser a resposta.</p>
